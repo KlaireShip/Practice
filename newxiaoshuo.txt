@@ -1,0 +1,6 @@
+branch到底是什么情况啊！！！
+
+我新建的xiaoshuo文件在push version1.1的时候貌似并没有成功push到remote repo上哎。
+
+
+再拿新小说文件试一下吧。
